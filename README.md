@@ -1,21 +1,43 @@
 # 🔐 Alvin Okiya's Cybersecurity Portfolio
 
-Welcome to my technical portfolio! I'm a cybersecurity analyst with a strong focus on threat intelligence, SIEM monitoring, system hardening, and ethical hacking practices. This repository serves as a showcase of my hands-on labs, technical documentation, and security projects that demonstrate my growing expertise in offensive and defensive security.
+Welcome to my technical portfolio. I'm **Alvin Okiya** — a cybersecurity analyst specializing in **threat intelligence**, **network forensics**, and **cloud security exploitation**. This repository showcases hands-on labs, documentation, and real-world simulations that reflect my skills in both offensive and defensive security.
 
-## 🚀 Highlights
+---
 
-- 🔍 Vulnerability Assessment & Web Exploitation Labs
-- 🧠 Threat Intelligence & IOC Creation
-- 🧰 SIEM Deployment (Wazuh) and Sysmon Integration
-- 🕵️‍♂️ Network Traffic Analysis (Wireshark, tcpdump)
-- 🧪 Labs on VLANs, Reverse Shells, DNS, and OSI Simulation
+## 🚀 Technical Highlights
 
-Each project folder contains a detailed `README.md` and supporting documentation in PDF format.
+- 🔍 Vulnerability Assessment & Exploitation  
+- 🧠 IOC Creation & Threat Intelligence  
+- 🧰 SIEM Deployment with Wazuh & Sysmon  
+- 🕵️‍♂️ Network Traffic & Protocol Analysis  
+- ☁️ Cloud Exploits & Privilege Escalation (AWS / Azure)  
+- 🛡️ Infrastructure Hardening & Switch/Router Configs  
+
+---
+
+## 📂 Featured Projects
+
+Click any title to open the full lab report and walkthrough:
+
+- [🐚 DVWA Web Shell Deployment](/DVWA-Web-Shell/README.md)
+- [🎯 MAC Flooding & ARP Spoofing](/MAC-Flooding-&-ARP-Spoofing/README.md)
+- [🌐 Web Application Vulnerabilities](/Web-Applications-1/README.md)
+- [🔐 AWS Privilege Escalation via Rollback](/AWS-Priviledge-Escalation/README.md)
+- [🛡️ VLAN Switch Security Configuration](/VLAN-Switch-Config/README.md)
+- [📡 WLAN Configuration & RADIUS Auth](/WLAN-Configuration/README.md)
+- [🧱 Switch & Router Network Setup](/Switch%20&%20Router%20Network%20Configuration/README.md)
+- [📘 DNS Recon & Enumeration](/DNS-TryHackMe/README.md)
+- [📈 Network Traffic Analysis (Wireshark)](/Wireshark-Traffic-Analysis/README.md)
+- [🧪 HTB Web Requests & Protocol Analysis](/HTB-Web-Requests/README.md)
+- [🔐 Encryption/Decryption Tool (Final Year Project)](/Encryption-&-Decryption-Tool/README.md)
+- [🔐 Site-to-Site VPN Tunnel Lab](/Configuring-Site-to-Site-VPNs/README.md)
+
+---
 
 ## 🧠 Explore More
 
-👉 Visit my [Cybersecurity Blog](https://okiyaalvin.github.io/) for write-ups, CTFs, and practical guides  
-👉 Connect on [LinkedIn](https://linkedin.com/in/alvinokiya/) for collaboration or opportunities  
+[![💻 Visit Blog](https://img.shields.io/badge/okiyaalvin.github.io-Visit_My_Blog-blue)](https://okiyaalvin.github.io)  
+[![🔗 Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Alvin_Okiya-blue?logo=linkedin)](https://linkedin.com/in/alvinokiya)
 
 ---
 

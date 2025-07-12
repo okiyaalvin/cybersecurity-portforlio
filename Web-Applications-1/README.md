@@ -106,3 +106,5 @@ Includes request/response logs, payload breakdowns, mitigation proposals, and sc
 
 > _"Secure code isn't the absence of bugs — it's the presence of discipline, design, and doubt."_  
 > — Alvin Okiya
+
+[![✔ BACK](https://img.shields.io/badge/BACK_TO_PORTFORLIO-Click_Here-darkgreen?logo=github)](/README.md)

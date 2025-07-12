@@ -86,3 +86,5 @@ Includes design diagrams, source code structure, GUI implementation steps, testi
 
 > _"Security isn’t built with just theory — it’s crafted through code, tested with intent, and deployed with purpose."_  
 > — Alvin Okiya
+
+[![✔ BACK](https://img.shields.io/badge/BACK_TO_PORTFORLIO-Click_Here-maroon?logo=github)](/README.md)

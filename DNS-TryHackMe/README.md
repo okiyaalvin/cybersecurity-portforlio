@@ -75,3 +75,5 @@ The report includes full command outputs, annotated screenshots, enumeration fin
 
 > _"When you understand DNS, you unlock one of the internet’s most powerful maps — and one of its most overlooked vulnerabilities."_  
 > — Alvin Okiya
+
+[![✔ BACK](https://img.shields.io/badge/BACK_TO_PORTFORLIO-Click_Here-orange?logo=github)](/README.md)

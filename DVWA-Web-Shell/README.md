@@ -130,3 +130,5 @@ This PDF details all terminal outputs, screenshots, crafted payloads, and step-b
 
 > _"The easiest exploit is the one you invite — never trust file uploads."_  
 > — Alvin Okiya
+
+[![✔ BACK](https://img.shields.io/badge/BACK_TO_PORTFORLIO-Click_Here-yellow?logo=github)](/README.md)

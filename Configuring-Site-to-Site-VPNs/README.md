@@ -167,3 +167,5 @@ Includes CLI logs, license outputs, ACL definitions, crypto map structures, and 
 
 > _"Security isn't just encryption — it's knowing when, how, and **why** to encrypt."_  
 > — Alvin Okiya
+
+[![✔ BACK](https://img.shields.io/badge/BACK_TO_PORTFORLIO-Click_Here-brightgreen?logo=github)](/README.md)
