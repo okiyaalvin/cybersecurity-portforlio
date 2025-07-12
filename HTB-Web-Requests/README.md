@@ -94,14 +94,16 @@ Covered components like:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ POC
 
-_Add image files to this folder and link them like this:_
+_Evidence:_
 
-```markdown
-![Header Inspection with curl -I](./curl-header-inspect.png)
-![DevTools POST Analysis](./devtools-post-req.png)
-```
+
+![Header Inspection with curl -I](/assets/HTB-Web-Requests/webrqcurl.jpg)
+
+---
+
+![DevTools POST Analysis](/assets/HTB-Web-Requests/webrqinsp.jpg)
 
 ---
 

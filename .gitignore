@@ -1,0 +1,13 @@
+# macOS / system
+.DS_Store
+
+# Jekyll build
+_site/
+.jekyll-cache/
+
+# VSCode
+.vscode/
+
+# Log or temp files
+*.log
+*.tmp

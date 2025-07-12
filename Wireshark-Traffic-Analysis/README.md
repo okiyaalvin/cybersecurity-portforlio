@@ -60,13 +60,14 @@ The goal of this lab was to:
 
 ## 🖼️ Screenshots
 
-_Add image files to this folder and link them here:_
+_Evidence:_
 
-```markdown
-![ICMP Packet Capture](./icmp-capture.png)
-![DNS Query Breakdown](./dns-query.png)
+![ICMP Packet Capture](/assets/Wireshark-Traffic-Analysis/wireshark-icmp.jpg)
 
 ---
+![Tcp-stream](/assets/Wireshark-Traffic-Analysis/wireshark-tcpstr.jpg)
+
+
 ## 📄 Full Report
 
 📥 [Download the detailed PDF documentation](./Wireshark-Traffic-Analysis.pdf)

@@ -61,14 +61,14 @@ This project documents the secure setup and segmentation of a small enterprise n
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ POC
 
-_Add screenshots like the ones below once available:_
+_Evidence:_
 
-```markdown
-![VLAN Trunk Config](./vlan-trunk-verify.png)
-![DHCP Snooping Status](./dhcp-snoop-show.png)
-```
+![VLAN Trunk Config](/assets/VLAN-Switch-Config/VLAN-trunk.jpg)
+
+---
+![DHCP Snooping Status](/assets/VLAN-Switch-Config/VLAN-ds.jpg)
 
 ---
 

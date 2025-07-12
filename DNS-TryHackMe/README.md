@@ -54,20 +54,20 @@ The goal of this lab was to:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ POC
 
-_Add screenshots like the ones below once available:_
 
-```markdown
-![dig A Record](./dig-a-record.png)
-![Zone Transfer Attempt](./zone-transfer.png)
-```
+![image](/assets/DNS-TryHackme/DNS.jpg)
+
+---
+
+![image](/assets/DNS-TryHackme/DNS1.jpg)
 
 ---
 
 ## 📄 Full Report
 
-📥 [Download the full DNS in Detail lab documentation (PDF)](./DNS-TryHackMe.pdf)
+📥[Download the full DNS in Detail lab documentation (PDF)](/DNS-TryHackMe/DNS-TryHackMe.pdf)
 
 The report includes full command outputs, annotated screenshots, enumeration findings, and reflections on defensive and offensive DNS usage.
 
