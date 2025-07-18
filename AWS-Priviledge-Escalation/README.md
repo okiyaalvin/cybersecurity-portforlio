@@ -1,5 +1,7 @@
 # 🛡️ AWS Privilege Escalation by Rollback – CloudGoat Exploitation
 
+![image](/assets/AWS-privesc/aws-rollback.png)
+
 This isn’t just another lab — it’s a surgical deep-dive into the cracks and blind spots of cloud security. In this project, I escalated AWS IAM privileges by rolling back to a legacy policy version using **CloudGoat’s iam_privesc_by_rollback** scenario. Crafted inside a Kali Linux VM with AWS CLI and Terraform, the setup emulated real-world exploitation steps: misconfigurations, policy drift, overlooked rollback rights — all culminating in **root-level access from a restricted account**.
 
 This exercise was intense, unforgiving, and revealing — a true analyst’s trial by fire.
@@ -140,7 +142,7 @@ This wasn’t just access escalation. It was **identity takeover and trust chain
 
 ## 📄 Full Report
 
-📥 [Download the full AWS IAM Rollback Exploitation report (PDF)](/AWS-Priviledge-Escalation/aws-Privilege-Escalation.pdf)
+📥 [Download the full AWS IAM Rollback Exploitation report (PDF)](/AWS-Priviledge-Escalation/W7A1-c-r.pdf)
 
 Includes full CLI logs, exploit commands, screenshots, and mitigation strategies.
 
