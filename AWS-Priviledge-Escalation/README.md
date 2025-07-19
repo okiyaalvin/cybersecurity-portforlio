@@ -151,5 +151,5 @@ Includes full CLI logs, exploit commands, screenshots, and mitigation strategies
 > _"Cloud permissions don’t scream when they’re misused — they whisper. And if you’re listening, you’ll hear the breach before it explodes."_  
 > — Alvin Okiya
 
-[![🔙 Back to Main Portfolio README](https://img.shields.io/badge/←-Return_to_Portfolio-orange?logo=amazonaws)](/README.md)
+[![🔙 Back to Main Portfolio README](https://img.shields.io/badge/←-Return_to_Portfolio-orange?logo=github)](/README.md)
 
