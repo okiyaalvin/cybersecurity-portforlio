@@ -39,7 +39,7 @@ Click into any lab for full walkthroughs, screenshots, and markdown-rich documen
 - [🔐 Site-to-Site VPN Tunnel Lab](/Configuring-Site-to-Site-VPNs/README.md)  
 - [☁️ Azure Firewall + Custom Routing Lab](/Azure-Firewall/README.md)  
 - [🛡️ NSG & ASG Role-Based Access Control Lab](/NSG-ASG/README.md)  
-- [🔐 Azure Key Vault + Always Encrypted Integration](/azure-key-vault/README.md)
+- [🔐 Azure Key Vault + Always Encrypted Integration](/Azure-Key-Vault/README.md)
 
 ---
 
