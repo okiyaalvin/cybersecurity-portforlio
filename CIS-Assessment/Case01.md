@@ -90,4 +90,3 @@ All findings were validated through internal documentation, system configuration
 [![🧩 Back to Portforlio](https://img.shields.io/badge/CIS_Assessment-Back_To_Portfolio-green?logo=microsoft)](/README.md)
 
 
-```markdown
