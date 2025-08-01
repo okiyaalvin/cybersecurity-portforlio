@@ -39,7 +39,17 @@ Click into any lab for full walkthroughs, screenshots, and markdown-rich documen
 - [🔐 Site-to-Site VPN Tunnel Lab](/Configuring-Site-to-Site-VPNs/README.md)  
 - [☁️ Azure Firewall + Custom Routing Lab](/Azure-Firewall/README.md)  
 - [🛡️ NSG & ASG Role-Based Access Control Lab](/NSG-ASG/README.md)  
-- [🔐 Azure Key Vault + Always Encrypted Integration](/Azure-Key-Vault/README.md)
+- [🔐 Azure Key Vault + Always Encrypted Integration](/Azure-Key-Vault/README.md)  
+
+---
+
+## 🧪 Real-World Engagements
+
+These are anonymized case studies from actual VAPT assessments I've conducted across industries including fintech, retail, manufacturing, and e-commerce. Each case reflects my role in identifying vulnerabilities, guiding remediation, and strengthening client security posture.
+
+- [📁 VAPT Engagement Showcase – Case Studies](/VAPT-Engagement-Showcase/VAPT.md)
+
+[![📁 View VAPT Case Studies](https://img.shields.io/badge/VAPT_Case_Studies-Explore-grey?logo=hackthebox)](/VAPT-Engagement-Showcase/VAPT.md)
 
 ---
 
