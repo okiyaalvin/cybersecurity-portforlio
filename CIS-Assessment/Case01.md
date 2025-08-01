@@ -1,4 +1,4 @@
-# 🧩 CIS Benchmark Assessment – Microsoft 365 Configuration (IG1)
+# 🧩 CIS Benchmark Assessment (IG1)
 
 This case study documents a CIS Controls Self Assessment (CSAT) conducted for a mid-sized cloud-first organization. The assessment focused on **Implementation Group 1 (IG1)** controls across Microsoft 365 and supporting infrastructure, with the goal of establishing a secure operational baseline for identity, access, data, and endpoint protection.
 
