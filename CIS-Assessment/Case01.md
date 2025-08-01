@@ -80,7 +80,7 @@ This case study documents a CIS Controls Self Assessment (CSAT) conducted for a 
 ## 🧠 Analyst Reflection
 
 > _"This IG1-focused assessment revealed strong foundational security practices, but also highlighted areas where automation and policy formalization are needed. The findings will guide future remediation and compliance efforts."_  
-> — Cybersecurity Analyst
+> — Alvin Okiya
 
 ---
 
