@@ -49,7 +49,13 @@ These are anonymized case studies from actual VAPT assessments I've conducted ac
 
 - [📁 VAPT Engagement Showcase – Case Studies](/VAPT-Engagement-Showcase/VAPT.md)
 
-[![📁 View VAPT Case Studies](https://img.shields.io/badge/VAPT_Case_Studies-Explore-grey?logo=hackthebox)](/VAPT-Engagement-Showcase/VAPT.md)
+    [![📁 View VAPT Case Studies](https://img.shields.io/badge/VAPT_Case_Studies-Explore-grey?logo=hackthebox)](/VAPT-Engagement-Showcase/VAPT.md)
+
+---
+
+## 📋 Compliance & Governance
+
+- [🧩 CIS Benchmark Assessment](/CIS-Assessment/Case01.md)
 
 ---
 
