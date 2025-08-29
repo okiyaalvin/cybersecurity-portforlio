@@ -2,7 +2,7 @@
 
 This project demonstrates the exploitation of common **AWS cloud security misconfigurations** within the intentionally vulnerable `flaws.cloud` environment. Through a multi-stage hands-on lab, I performed reconnaissance, storage enumeration, credential harvesting, privilege escalation, and API gateway exploitation. The workflow highlights real-world attack paths and emphasizes the importance of securing cloud assets against misconfiguration-based threats. <!-- filecite24:0 -->
 
-![intro](/cybersecurity-portforlio/assets/Flaws_AWS/intro.png)
+![intro](/assets/Flaws_AWS/intro.png)
 ---
 
 ## 📌 Objective
@@ -142,16 +142,16 @@ aws --profile level6 --region us-west-2 apigateway get-stages --rest-api-id s33p
 ## 🖼️ POC
 
 
-![S3 Enumeration](/cybersecurity-portforlio/assets/Flaws_AWS/s3-enum.png)
-![leaked credentials](/cybersecurity-portforlio/assets/Flaws_AWS/git.png)
-![EC2 Snapshot Mount](/cybersecurity-portforlio/assets/Flaws_AWS/ec2-volume.png)
-![Metadata Exploit](/cybersecurity-portforlio/assets/Flaws_AWS/metadata.png)
+![S3 Enumeration](/assets/Flaws_AWS/s3-enum.png)
+![leaked credentials](/assets/Flaws_AWS/git.png)
+![EC2 Snapshot Mount](/assets/Flaws_AWS/ec2-volume.png)
+![Metadata Exploit](/assets/Flaws_AWS/metadata.png)
 
 ---
 
 ## 📄 Full Report
 
-📥[Download the full report](/cybersecurity-portforlio/Flaws_AWS/Flaws_AWS.pdf)
+📥[Download the full report](/Flaws_AWS/Flaws_AWS.pdf)
 
 This PDF contains step-by-step details, screenshots, and command outputs.
 
