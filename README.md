@@ -40,7 +40,10 @@ Click into any lab for full walkthroughs, screenshots, and markdown-rich documen
 - [☁️ Azure Firewall + Custom Routing Lab](/Azure-Firewall/README.md)  
 - [🛡️ NSG & ASG Role-Based Access Control Lab](/NSG-ASG/README.md)  
 - [🔐 Azure Key Vault + Always Encrypted Integration](/Azure-Key-Vault/README.md)  
-
+- [🐞 Vulnerable_Lambda_Exploitation](/cybersecurity-portforlio/Vulnerable_Lambda_Exploitation/README.md)
+- [🕵️‍♂️ Devsecops_Defender](/cybersecurity-portforlio/Devsecops_Defender/README.md)
+- [🧱 AzureDefender_Monitor_Sentinel_JIT](/cybersecurity-portforlio/AzureDefender_Monitor_Sentinel_JIT/README.md)
+- [🧨 Flaws_AWS](/cybersecurity-portforlio/Flaws_AWS/README.md)
 ---
 
 ## 🧪 Real-World Engagements
