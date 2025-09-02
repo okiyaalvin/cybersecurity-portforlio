@@ -59,6 +59,7 @@ These are anonymized case studies from actual VAPT assessments I've conducted ac
 ## 📋 Compliance & Governance
 
 - [🧩 CIS Benchmark Assessment](/CIS-Assessment/Case01.md)
+- [📑 Policy & Strategy Development – Governance Project](/Policies-&-Strategy/case01.md)
 
 ---
 
