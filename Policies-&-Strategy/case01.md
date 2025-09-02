@@ -55,20 +55,18 @@ The project followed a structured, multi-phase approach:
 
 The compiled document includes the following finalized policies:
 
-| Policy Title                          | Purpose & Scope |
-|--------------------------------------|------------------|
-| Information Security Policy          | Defines security principles, roles, and controls |
-| Acceptable Use Policy                | Outlines responsible use of IT assets |
-| Access Control Policy                | Specifies user access levels and authentication |
-| Incident Response Policy             | Details procedures for detecting and responding to incidents |
-| Data Protection & Privacy Policy     | Covers data handling, consent, and privacy safeguards |
-| Remote Work & BYOD Policy            | Governs offsite access and personal device usage |
-| Firewall & Network Security Policy   | Establishes perimeter defense and network segmentation |
-| Email & Communication Policy         | Regulates digital communication and phishing awareness |
-| Change Management Policy             | Controls system changes and versioning protocols |
-| IT Governance Strategy Document      | Provides strategic direction and oversight mechanisms |
-
-Each policy was formatted for clarity, version control, and audit readiness.
+| Policy Title                                      | Purpose & Scope |
+|--------------------------------------------------|------------------|
+| IT Asset Management Policy                        | Governs lifecycle, ownership, and protection of IT assets |
+| Data Protection Policy                            | Ensures lawful, secure, and ethical handling of personal and sensitive data |
+| Account Management Policy                         | Defines creation, maintenance, and deactivation of user accounts |
+| Access Control Policy                             | Specifies authentication, authorization, and role-based access mechanisms |
+| Information Security Policy                       | Establishes principles, responsibilities, and controls for securing information assets |
+| IT Secure Configuration Policy                    | Enforces baseline configurations and hardening standards across systems |
+| Network and Service Provider Security Policy      | Outlines controls for securing internal networks and third-party service integrations |
+| Risk Management and Incident Response Policy      | Details risk assessment procedures and incident handling workflows |
+| Acceptable Use and Security Awareness Policy      | Promotes responsible use of IT resources and cultivates security-conscious behavior |
+| General IT Policy                                 | Provides overarching guidance on IT governance, operations, and compliance alignment |
 
 ---
 
