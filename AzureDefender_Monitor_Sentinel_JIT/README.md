@@ -2,7 +2,7 @@
 
 This project demonstrates a complete Azure-native security pipeline—centralized telemetry collection, hardening of virtual machines, time-bound access control, and SIEM-driven detection and automation—implemented across **Labs 08–11**. I configured **Azure Monitor (AMA + Log Analytics + DCR)**, enabled **Microsoft Defender for Servers (Plan 2)**, enforced **Just-In-Time (JIT) VM access**, and onboarded **Microsoft Sentinel** to create analytics rules and playbooks that automatically respond to risky changes (e.g., deletion of a JIT policy). <!-- fileciteturn0file0 -->
 
-![intro](/cybersecurity-portforlio/assets/AzureDefender_Monitor_Sentinel_JIT/intro.png)
+![intro](/assets/AzureDefender_Monitor_Sentinel_JIT/intro.png)
 
 ---
 
@@ -152,14 +152,14 @@ AzureActivity
 
 ## 🖼️ POC
 
-![Azure Monitor – DCR to Workspace](/cybersecurity-portforlio/assets/AzureDefender_Monitor_Sentinel_JIT/dcr-workspace.png)
-![Sentinel – Incident After JIT Deletion](/cybersecurity-portforlio/assets/AzureDefender_Monitor_Sentinel_JIT/incident.png)
+![Azure Monitor – DCR to Workspace](/assets/AzureDefender_Monitor_Sentinel_JIT/dcr-workspace.png)
+![Sentinel – Incident After JIT Deletion](/assets/AzureDefender_Monitor_Sentinel_JIT/incident.png)
 
 ---
 
 ## 📄 Full Report
 
-📥[Download the full report](/cybersecurity-portforlio/AzureDefender_Monitor_Sentinel_JIT/AzureDefender_Monitor_Sentinel_JIT.pdf)
+📥[Download the full report](/AzureDefender_Monitor_Sentinel_JIT/AzureDefender_Monitor_Sentinel_JIT.pdf)
 
 This PDF contains all portal screenshots, commands, wizard settings, KQL, and verification steps.
 

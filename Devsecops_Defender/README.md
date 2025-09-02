@@ -1,6 +1,6 @@
 # 🐚 DevSecOps Defender – Azure Sentinel Integration Lab
 
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/devsecops-int.png)
+![image](/assets/Devsecops_Defender/devsecops-int.png)
 
 This project demonstrates the integration of DevSecOps principles into a cloud-native security operations workflow using Azure Sentinel. It showcases how automated detection, response, and governance can be embedded into CI/CD pipelines to enhance visibility, reduce response time, and enforce compliance across hybrid environments.
 
@@ -37,7 +37,7 @@ This lab focuses on misconfigured CI/CD pipelines and exposed container workload
 
 ## 🧭 Exploitation Walkthrough
 
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/azure-devsecops.png)
+![image](/assets/Devsecops_Defender/azure-devsecops.png)
 
 ### 1. Reconnaissance & Enumeration
 Simulated attacker scans exposed AKS services:
@@ -86,15 +86,15 @@ Playbook disables compromised service principal and sends notification
 - Implement conditional access and MFA for DevOps accounts
 
 ## POC
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/Azure-devsecops-res.png)  
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/git-scan.png)  
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/git-yml.png)  
-![image](/cybersecurity-portforlio/assets/Devsecops_Defender/bandit.png)
+![image](/assets/Devsecops_Defender/Azure-devsecops-res.png)  
+![image](/assets/Devsecops_Defender/git-scan.png)  
+![image](/assets/Devsecops_Defender/git-yml.png)  
+![image](/assets/Devsecops_Defender/bandit.png)
 
 ---
 
 📄 Full Report  
-📥[Download the full report](/cybersecurity-portforlio/Devsecops_Defender/Devsecops_Defender.pdf)
+📥[Download the full report](/Devsecops_Defender/Devsecops_Defender.pdf)
 
 ---
 
