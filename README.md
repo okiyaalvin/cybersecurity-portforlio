@@ -46,14 +46,16 @@ Click into any lab for full walkthroughs, screenshots, and markdown-rich documen
 - [🧨 Flaws_AWS](/Flaws_AWS/README.md)
 ---
 
-## 🧪 Real-World Engagements
-
+# 🧪 Real-World Engagements  
+## 🐞VAPT  
 These are anonymized case studies from actual VAPT assessments I've conducted across industries including fintech, retail, manufacturing, and e-commerce. Each case reflects my role in identifying vulnerabilities, guiding remediation, and strengthening client security posture.
 
 - [📁 VAPT Engagement Showcase – Case Studies](/VAPT-Engagement-Showcase/VAPT.md)
 
-    [![📁 View VAPT Case Studies](https://img.shields.io/badge/VAPT_Case_Studies-Explore-grey?logo=hackthebox)](/VAPT-Engagement-Showcase/VAPT.md)
+    [![📁 View VAPT Case Studies](https://img.shields.io/badge/VAPT_Case_Studies-Explore-grey?logo=hackthebox)](/VAPT-Engagement-Showcase/VAPT.md)  
 
+## 📱 Unified Endpoint Management – Client Deployment Project  
+- [Explore Case study](/MDM/MDM.md) 
 ---
 
 ## 📋 Compliance & Governance
