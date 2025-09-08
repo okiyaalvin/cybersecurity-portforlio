@@ -57,7 +57,10 @@ These are anonymized case studies from actual VAPT assessments I've conducted ac
 ## 📱 Unified Endpoint Management – Client Deployment Project  
 - [Explore Case study](/MDM/MDM.md) 
 ---
+## 🧵 Network Optimization & Rack Reorganization – Infrastructure Support Project  
+- [Explore Case study](/Networking-Casestudies/mj.md)
 
+---
 ## 📋 Compliance & Governance
 
 - [🧩 CIS Benchmark Assessment](/CIS-Assessment/Case01.md)
